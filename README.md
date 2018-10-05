@@ -1,0 +1,2 @@
+# Bulk-Mail-Sender-HTML-from-Excel-File-Java-Netbeans-GUI-Sqlite-Complete-PROJECT
+This is bulk mail sender project normal and html form.  technology : java, gui, sqlite, java mail API, Excel file reader etc hope you enjoy.... android version coming soon on play store ,  you can order me for a project.  To Contact With Me :        1. iktakhairul@gmail.com       2. www.facebook.com/ikta.khairul [ most active ]       3. +8801683201359
